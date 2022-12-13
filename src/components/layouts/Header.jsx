@@ -25,12 +25,12 @@ const Header = () => {
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
                 <Link to="/" className="nav-link ">
-                  Features
+                  Feature
                 </Link>
               </li>
               <li className="nav-item">
                 <Link to="" className="nav-link ">
-                  Litepaper
+                  Lite paper
                 </Link>
               </li>
               <li className="nav-item">
